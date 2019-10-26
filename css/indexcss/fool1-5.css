@@ -1,0 +1,99 @@
+/* floor  start */
+
+.floor{width:100%;margin-top:20px;}
+/* floor-top  start*/
+.floor-top{width:100%;height:40px;line-height:26px;}
+.floor-left{height:40px;float:left;position:relative;}
+.floor-left .translate{z-index:3;width:30px;
+color:#fff;position:absolute;left:3px;top:5px;}
+.floor-left .floor-log-text{position:absolute;left:60px;top:10px;
+	width:100px;
+}
+.floor-right{height:100%;float:right;}
+.floor-right a{color:#666;}
+.floor-right a:hover{color:red;text-decoration:underline;}
+#white-lamp,#red-lamp2,#red-lamp3,#red-lamp4,#red-lamp5{
+	background:#D50D5A;padding:5px;color:#fff;}
+#white-lamp:hover{background:#D50D5A;padding:5px;color:#fff;}
+#red-lamp2:hover{background:#D50D5A;padding:5px;color:#fff;}
+#red-lamp3:hover{background:#D50D5A;padding:5px;color:#fff;}
+#red-lamp4:hover{background:#D50D5A;padding:5px;color:#fff;}
+#red-lamp5:hover{background:#D50D5A;padding:5px;color:#fff;}
+/* floor-main start */
+.floor-con{width:1198px;height:650px;border:1px solid #D2DADE; border-top:3px ridge #D50D5A;}
+/* floor-left start */
+.floor-con-left{float:left;width:210px;height:100%;}
+
+		/* floor-lb start */
+.floor-lb{width:100%;height:485px;position:relative;overflow:hidden;}
+.floor-lb .floor-lb-imgbox{width:2500px;height:485px;
+	position:absolute;left:0px;top:0px;z-index:1;}
+.floor-lb .floor-lb-imgbox li{float:left;}
+.floor-num1{width:120px;height:20px;position:absolute;
+left:50%;bottom:15px;margin-left:-60px;z-index:2;}
+.lamp1,.lamp2,.lamp3,.lamp4,.lamp5{float:left;width:20px;height:20px;background:#DDBFBF;
+border-radius:100%;margin-left:10px;}
+ .lamp-add{background:blue;}
+ .lamp-add2{background:red;}
+ .lamp-add3{background:yellow;}
+ .lamp-add4{background:#3CB0C5;}
+ .lamp-add5{background:#C636C5;}
+		/* floor-lb end*/
+
+		/* floor-hotbox start */
+.floor-hotbox{padding:10px;width:189px;height:145px;border-right:1px solid #aaf;}
+.floor-hot1{width:100%;}	
+.floor-hotbox li{list-style-type:square;font-size:13px;margin-left:20px;}
+.floor-hotbox a{margin-left:8px;font-size:12px;color:#666;margin-bottom:5px;margin-right:9}
+
+
+		/* floor-hotbox end */
+/* floor-left end */
+
+/* floor-right start */
+/* floor-showbox-top  start*/
+.floor-show{float:right;width:988px;height:100%;}
+.floor-showbox{height:485px;width:100%;}
+.floor-showbox li{float:left;border-right:1px solid #D2DADE;border-bottom:1px solid #D2DADE;
+width:196.6px;height:241px;}
+.floor-showbox li>a{display:block;width:160px;height:160px;margin:0px auto;}
+.floor-showbox li>div:nth-child(2){width:170px;height:30px;line-height:15px;
+font-size:11px;margin:15px auto;}
+.floor-showbox li>div:nth-child(2)>a{color:#666;}
+.floor-showbox li>div:nth-child(2)>a:hover{color:red;text-decoration:underline;}
+.floor-showbox li>div:nth-child(3){width:170px;height:15px;line-height:15px;
+font-size:15px;margin:15px auto;margin-top:5px;}
+/* floor-showbox-top end*/
+
+
+/* this-hot-top start */
+.floor-this{width:100%;height:165px;}
+.floor-this-top{width:100%;height:26px;line-height: 26px;font-size:13px;position:relative;
+}
+.floor-this-top-left{height:26px;float:left;margin-left:15px;}
+.floor-this-top-right{height:26px;float:right;}
+.floor-this-top-right a{color:#666;}
+.floor-this-top-right a:hover{color:red;text-decoration: underline;}
+
+.floor-this-con{width:100%;display:none;height:138px;}
+.floor-this-con-first{display:block;}
+.floor-this-con>li{width:196px;float:left;height:135px;}
+.floor-this-con>li>.floor-this-img{width:96px;height:96px;margin:14px 0px;float:left;}
+.floor-this-con>li>.floor-this-text{width:90px;height:96px;margin:14px 0px;float:right;}
+.floor-this-con>li>.floor-this-text .floor-this-top{width:70px;height:40px;
+	line-height: 20px;font-size:11px;margin:5px auto;
+}
+.floor-this-con>li>.floor-this-text .floor-this-top a{color:#666;}
+.floor-this-con>li>.floor-this-text .floor-this-top a:hover{color:red;
+	text-decoration: underline;}
+..floor-this-con>li>.floor-this-text .floor-this-price{width:70px;height:30px;
+	line-height: 30px;font-size:15px;margin:5px auto;}
+		/* this-hot-top end */
+	/* floor-right end */
+/* floor-main end */
+
+/* 三楼特设 */
+#floor3,#floor4,#floor5{height:485px;}
+#floor3-lb{height:320px;}
+#floor3-imgbox{height:320px;}
+/* 三楼特设 */

@@ -1,0 +1,46 @@
+.recommend{width:1198px;border:1px solid #BDE3DC;
+			height:270px;margin-top:20px;}
+.recommend-top{width:120px;border-top:2px solid red;height:35px;
+				line-height: 35px;text-align:center;color:#666;
+				font-size:14px;}
+.recommend-con{width:100%;height:233px;}
+.r-c-box1{width:200px;height:100%;position:relative;float:left;}
+.imgbox-wuliany{width:160px;height:160px;margin:5px auto;}
+.text-wuliany{width:170px;height:30px;
+			margin:10px auto; overflow:hidden;
+			line-height: 15px;font-size:12px;}
+.text-wuliany>a{color:#666;}			
+.jiahao{position:absolute;top:50%;right: 10px;margin-top:-15px;
+		width:30px;height:30px;line-height: 30px;font-size:30px;
+		font-weight: bolder;color:#aaa;}
+
+.r-c-box2{float:left;width:800px;height:100%;position: relative;
+overflow-y:hidden;}
+
+.r-c-bigbox{width:1600px;height:100%;}
+.r-c-bigbox>ul>li{float:left;width:200px;height:100%;}
+.qita-imgbox{width:160px;height:160px;margin:0px auto;}
+.qita-text{width:170px;margin:3px auto;height:30px;
+			line-height: 15px;font-size:12px;overflow:hidden;
+			}
+.qita-text>a{color:#666;}
+.qita-price{width:170px;margin:0px auto;height:15px;line-height: 15px;
+			font-size:14px;color:red;}
+.qita-price input{vertical-align:middle;}
+
+
+.r-c-box3{float:left;width:197px;border-left:1px dashed #aaa;
+			height: 100%;}
+.have-selected{width:170px;height:15px;line-height: 15px;
+			font-size:12px;margin:30px auto 15px auto;color:#aaa;}
+.num-wu{color:red;}
+.totle-price{width:170px;height:20px;line-height: 20px;
+margin:0px auto;}
+.dpj{color:#666;font-size:12px;}
+.yen{color:#900;font-size:12px;margin-left:10px;}
+.totle-all{color:#900;font-size:16px;font-weight:bolder;
+margin-left:5px;}
+.tijiao-buy{display:block;margin:20px auto;width:120px;
+			height:30px;padding:5px;line-height:15px;font-size:15px;
+			background:#900;color:#fff;
+			box-shadow:2px 2px 2px #aaa; }

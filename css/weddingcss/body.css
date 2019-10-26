@@ -1,0 +1,37 @@
+.all-good{display:none;}
+#all-goods:hover .all-good{display:block;}
+img{outline-width:0px;vertical-align:top;}
+.bodybox{min-width:990px;}
+/* 一楼 */
+.imgoutbox{margin-bottom:0px;}
+.topbox{margin:0 auto;overflow:hidden;width:100%;}
+.top-mid{width:1920px;margin-left:-285px;}
+/* 一楼 */
+
+/* 二楼 */
+.top2outbox{margin:0px auto;width:990px;}
+.imgbox2{background:rgb(248,232,207);}
+.top2{width:990px;}
+/* 二楼 */
+.top4 ul>li{float:left;margin:20px 7px 20px 0px;width:240px;height:360px;}
+.top4 ul>li:hover{transform:scale(1.2);box-shadow:10px -10px 10px #000;
+z-index:3;}
+/* 四楼 */
+.top4 ul>li>.picbox{border-bottom:1px dashed #91BDA6;}
+.top4 ul>li>.picbox>a{display:block;}
+.top4 ul>li>.textbox{background:#CFC5C5;width:220px;
+padding:10px;height:120px;
+}
+.top4 ul>li>.textbox>p{width:200px;margin:5px auto;overflow:hidden;
+text-overflow:ellipsis;white-space:nowrap;-o-white-space:nowrap;}
+.top4 ul>li>.textbox>.p1>a{color:#666;}
+.top4 ul>li>.textbox>.p2>a{color:#D0E463;}
+.pic-price{float:left;color:#D8183F;font-size:25px;font-weight:bolder;
+}
+.now{float:right;}
+.now>a{display:block;background:#D8183F;color:#fff;
+	width:100px;height:25px;line-height: 25px;
+	text-align:center;border-radius:5px;box-shadow:5px 5px 5px #aaa;
+}
+
+/* 四楼 */
